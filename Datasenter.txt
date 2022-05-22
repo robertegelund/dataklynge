@@ -1,0 +1,24 @@
+import java.util.HashMap;
+
+public class Datasenter {
+    
+    // Oppretter et datasenter
+    public Datasenter() {
+        
+    }
+
+    // Leser inn regneklynge fra fil og legger i HashMap
+    public void lesInnRegneklynge(String filnavn) {
+
+    }
+
+    // Skriver ut informasjon om en spesifikk regneklynge
+    public void skrivUtRegneklynge(String navn) {
+
+    }
+
+    // Skriver ut informasjon om alle regneklyngene
+    public void skrivUtAlleRegneklynger() {
+
+    }
+}
